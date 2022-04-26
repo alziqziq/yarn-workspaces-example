@@ -9,7 +9,7 @@
     "diff": "lerna diff"
   },
   "devDependencies": {
-    "lerna": "4.0.0"
+    "lerna": "^3.10.6"
   },
   "name": "yarn-workspaces-example"
 }
